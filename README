@@ -1,0 +1,13 @@
+main command : 
+
+mkdir : create folder
+cd : change direction
+touch : create file
+rf : delete
+
+
+cd .. : go back
+cd .. / .. : go back (2 times)
+q : quit
+
+
